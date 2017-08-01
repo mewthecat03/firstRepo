@@ -1,0 +1,13 @@
+
+div.square{height:20px;
+           width:20px;
+           background-color: blue;
+           border-width: 10px;
+           border-color: fuchsia;
+           border-style: solid;}
+#top{background-color: blue;}
+#top h1{color: aqua;}
+body #column{background-color: yellow;
+             height: 50px;
+             width: 10px;}
+body{margin: 0;}
